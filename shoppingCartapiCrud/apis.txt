@@ -1,0 +1,26 @@
+userApi
+
+creat&update User:http://localhost/apiCrud/cartUser/createUser.php  
+
+Check user or specified user:http://localhost/shoppingCartapiCrud/cartUser/getUsers.php
+
+Delete user:http://localhost/shoppingCartapiCrud/cartUser/delete_user.php
+
+
+Products Api:
+
+create&update products:http://localhost/shoppingCartapiCrud/Products/creation.php
+
+read&update products :http://localhost/shoppingCartapiCrud/Products/read.php
+
+For delete any product:http://localhost/shoppingCartapiCrud/Products/delete.php
+
+Cart Api:
+
+creat&update Cart:http://localhost/shoppingCartapiCrud/shoppingCart/add_to_cart.php
+check products in cart:http://localhost/shoppingCartapiCrud/shoppingCart/check_product_inCart.php
+delete cart:http://localhost/shoppingCartapiCrud/shoppingCart/delete.php
+
+Product Order:
+createOrder:localhost\shoppingCartapiCrud\Order\create_order.php
+checkOrder:localhost\shoppingCartapiCrud\Order\check_order.php
